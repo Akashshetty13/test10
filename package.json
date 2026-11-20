@@ -1,0 +1,21 @@
+{
+  "name": "test10",
+  "version": "1.0.0",
+  "description": "This is my project code",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akashshetty13/test10.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Akashshetty13/test10/issues"
+  },
+  "homepage": "https://github.com/Akashshetty13/test10#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
